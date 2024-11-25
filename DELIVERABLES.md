@@ -94,5 +94,5 @@ The number of allowed records can be easily changed and so can the numbger of Jo
 
 ## VCS History
 
-The git bundle can be found [here](https://github.com/sbrdbry/reimagined-octo-waddle/blob/master/reimagined-octo-waddle.bundle).
+The git bundle can be found [here](https://github.com/sbrdbry/tech-test-solution/blob/main/reimagined-octo-waddle.bundle).
 
