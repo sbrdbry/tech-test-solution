@@ -26,19 +26,19 @@ sudo apt -y install composer
 ###### Clone the project:
 
 ```bash
-$ git clone https://github.com/sbrdbry/reimagined-octo-waddle.git
+$ git clone https://github.com/sbrdbry/tech-test-solution.git
 ```
 
 ###### Move it to your web directory:
 
 ```bash
-sudo mv reimagined-octo-waddle /var/www/html
+sudo mv tech-test-solution /var/www/html
 ```
 
 ###### Change into the directory:
 
 ```bash
-cd /var/www/html/reimagined-octo-waddle
+cd /var/www/html/tech-test-solution
 ```
 
 ###### Change the owner of the data directory:
