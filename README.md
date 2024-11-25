@@ -100,11 +100,11 @@ FOREIGN KEY (job_role)
 
 INSERT INTO people (firstname, lastname, email, job_role)
 VALUES
-("Jo", "Strummer", "mail+j+strummer@9xb.com", 1),
-("Mick", "Jones", "mail+m+jones@9xb.com", 2),
-("Pauline", "Black", "mail+p+black@9xb.com", 1),
-("Topper", "Headon", "mail+t+headon@9xb.com", 1),
-("Stuart", "Bradbury", "mail+s+bradbury@9xb.com", 1);
+("Jo", "Strummer", "mail+j+strummer@example.com", 1),
+("Mick", "Jones", "mail+m+jones@example.com", 2),
+("Pauline", "Black", "mail+p+black@example.com", 1),
+("Topper", "Headon", "mail+t+headon@example.com", 1),
+("Stuart", "Bradbury", "mail+s+bradbury@example.com", 1);
 ```
 
 ###### Launch MySQL:
