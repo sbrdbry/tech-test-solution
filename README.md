@@ -4,7 +4,7 @@
 
 This is an MVC application using the Zend Framework MVC layer and module
 systems. This application is a suggested solution to a technical test.
-A reference to the deliverables is available [here](https://github.com/sbrdbry/reimagined-octo-waddle/blob/master/DELIVERABLES.md).
+A reference to the deliverables is available [here](https://github.com/sbrdbry/tech-test-solution/blob/main/DELIVERABLES.md).
 
 
 ### Installation on Ubuntu 16.04 LTS
