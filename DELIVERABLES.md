@@ -61,7 +61,7 @@ A foreign key was added, referencing the lookup table.
 ###### Scalability
 
 
-The number of allowed records can be easily changed and so can the numbger of Job Roles assignments. Pagination can be added with a few lines of code at the bottom of the views. There is a Dockerfile, so the project can be Dockerized and deployed in a high availablility and fully scalable environment. 
+The number of allowed records can be easily changed and so can the number of Job Roles assignments. Pagination can be added with a few lines of code at the bottom of the views. There is a Dockerfile, so the project can be Dockerized and deployed in a high availablility and fully scalable environment. 
 
 
 
